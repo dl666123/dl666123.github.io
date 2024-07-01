@@ -4,7 +4,7 @@
     <meta content="text/html; charset=utf-8" http-equiv="content-type" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link href="//cdn.staticfile.net/Primer/21.0.7/primer.css" rel="stylesheet" />
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
     <link rel="icon" href="http://q.qlogo.cn/headimg_dl?dst_uin=2717344421&spec=640&img_type=jpg"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
@@ -93,8 +93,10 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/dl666123/dl666123.github.io/assets/75674705/7d73217a-0c37-4bcc-912d-9c4c02e4cc6b"><img src="https://github.com/dl666123/dl666123.github.io/assets/75674705/7d73217a-0c37-4bcc-912d-9c4c02e4cc6b" alt="IMG_20240629_182939_720" style="max-width: 100%;"></a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/dl666123/dl666123.github.io/assets/75674705/d4823ea1-929b-4495-9163-73ca524aa98c"><img src="https://github.com/dl666123/dl666123.github.io/assets/75674705/d4823ea1-929b-4495-9163-73ca524aa98c" alt="IMG_20240629_182939_733" style="max-width: 100%;"></a></p></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
+
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
 <div class="comments" id="comments"></div>
+
 </div>
     <div id="footer">Copyright © <span id="year"></span><a href="https://dl666123.github.io"> 东半夏洛的小博客 </a>
 <p>
@@ -149,6 +151,8 @@ console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5p
 <script>
 document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
 
 function openComments(){
     cm=document.getElementById("comments");
