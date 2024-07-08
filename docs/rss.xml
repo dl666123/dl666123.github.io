@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>东半夏洛的小博客</title><link>https://dl666123.github.io</link><description>东半夏洛！挚爱网络的一颗小白</description><copyright>东半夏洛的小博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://q.qlogo.cn/headimg_dl?dst_uin=2717344421&amp;spec=640&amp;img_type=jpg</url><title>avatar</title><link>https://dl666123.github.io</link></image><lastBuildDate>Mon, 08 Jul 2024 00:40:29 +0000</lastBuildDate><managingEditor>东半夏洛的小博客</managingEditor><ttl>60</ttl><webMaster>东半夏洛的小博客</webMaster><item><title>OpenUI-开源AI代码生成器</title><link>https://dl666123.github.io/post/OpenUI--kai-yuan-AI-dai-ma-sheng-cheng-qi.html</link><description>OpenUI-开源AI代码生成器&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>东半夏洛的小博客</title><link>https://dl666123.github.io</link><description>东半夏洛！挚爱网络的一颗小白</description><copyright>东半夏洛的小博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://q.qlogo.cn/headimg_dl?dst_uin=2717344421&amp;spec=640&amp;img_type=jpg</url><title>avatar</title><link>https://dl666123.github.io</link></image><lastBuildDate>Mon, 08 Jul 2024 00:42:44 +0000</lastBuildDate><managingEditor>东半夏洛的小博客</managingEditor><ttl>60</ttl><webMaster>东半夏洛的小博客</webMaster><item><title>tg限制内容下载</title><link>https://dl666123.github.io/post/tg-xian-zhi-nei-rong-xia-zai.html</link><description>TG限制内容下载&#13;
+&#13;
+telegram频道禁止复制与转发的内容下载&#13;
+&#13;
+将链接发给机器人，机器人会回复该内容，即使该频道设置了禁止复制转发也可以获取。</description><guid isPermaLink="true">https://dl666123.github.io/post/tg-xian-zhi-nei-rong-xia-zai.html</guid><pubDate>Mon, 08 Jul 2024 00:42:17 +0000</pubDate></item><item><title>OpenUI-开源AI代码生成器</title><link>https://dl666123.github.io/post/OpenUI--kai-yuan-AI-dai-ma-sheng-cheng-qi.html</link><description>OpenUI-开源AI代码生成器&#13;
 &#13;
 一款开源的AI代码生成器，根据描述生成UI界面，并能够输出HTML、CSS等前端代码，支持React、Svelte等框架，简化前端开发流程&#13;
 &#13;
