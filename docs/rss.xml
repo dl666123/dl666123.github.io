@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>东半夏洛的小博客</title><link>https://dl666123.github.io</link><description>东半夏洛！挚爱网络的一颗小白</description><copyright>东半夏洛的小博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://q.qlogo.cn/headimg_dl?dst_uin=2717344421&amp;spec=640&amp;img_type=jpg</url><title>avatar</title><link>https://dl666123.github.io</link></image><lastBuildDate>Mon, 08 Jul 2024 00:42:44 +0000</lastBuildDate><managingEditor>东半夏洛的小博客</managingEditor><ttl>60</ttl><webMaster>东半夏洛的小博客</webMaster><item><title>tg限制内容下载</title><link>https://dl666123.github.io/post/tg-xian-zhi-nei-rong-xia-zai.html</link><description>TG限制内容下载&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>东半夏洛的小博客</title><link>https://dl666123.github.io</link><description>东半夏洛！挚爱网络的一颗小白</description><copyright>东半夏洛的小博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://q.qlogo.cn/headimg_dl?dst_uin=2717344421&amp;spec=640&amp;img_type=jpg</url><title>avatar</title><link>https://dl666123.github.io</link></image><lastBuildDate>Mon, 08 Jul 2024 04:22:37 +0000</lastBuildDate><managingEditor>东半夏洛的小博客</managingEditor><ttl>60</ttl><webMaster>东半夏洛的小博客</webMaster><item><title>tg限制下载2</title><link>https://dl666123.github.io/post/tg-xian-zhi-xia-zai-2.html</link><description>tg有的频道禁止下载，可以试试用这个破除限制～&#13;
+&#13;
+https://github.com/iyear/tdl&#13;
+&#13;
+使用文档&#13;
+&#13;
+https://docs.iyear.me/tdl/zh/getting-started/installation/&#13;
+。</description><guid isPermaLink="true">https://dl666123.github.io/post/tg-xian-zhi-xia-zai-2.html</guid><pubDate>Mon, 08 Jul 2024 04:22:09 +0000</pubDate></item><item><title>tg限制内容下载</title><link>https://dl666123.github.io/post/tg-xian-zhi-nei-rong-xia-zai.html</link><description>TG限制内容下载&#13;
 &#13;
 telegram频道禁止复制与转发的内容下载&#13;
 &#13;
