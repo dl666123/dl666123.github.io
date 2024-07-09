@@ -2,5 +2,9 @@
     "title":"东半夏洛的小博客",
     "subTitle":"东半夏洛！挚爱网络的一颗小白",
     "avatarUrl":"http://q.qlogo.cn/headimg_dl?dst_uin=2717344421&spec=640&img_type=jpg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "indexScript":"
+window.onload = function() {
+  alert("你好，世界！");
+}"
 }
