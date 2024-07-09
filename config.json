@@ -3,8 +3,8 @@
     "subTitle":"东半夏洛！挚爱网络的一颗小白",
     "avatarUrl":"http://q.qlogo.cn/headimg_dl?dst_uin=2717344421&spec=640&img_type=jpg",
     "GMEEK_VERSION":"last",
-    "indexScript":
+    "indexScript":"
 window.onload = function() {
   alert("你好，世界！");
-}
+}"
 }
