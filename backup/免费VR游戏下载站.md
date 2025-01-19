@@ -8,3 +8,4 @@
 | 4    | 极客VR游戏     | [gizvr.cn](https://gizvr.cn/) | 极客VR游戏站点，内容丰富且实用。                             | 评价：还不错！                          |
 | 5    | 必备工具       | [87vr.com](https://87vr.com/) | 必备的VR相关工具网站。                                       | -                                       |
 | 6    | VR游戏导航网站 | [vrar123.com](https://vrar123.com/) | 包含多个VR游戏资源链接的导航网站。                           | -                                       |
+| 7    | vr下载吧| [vr下载吧](https://www.vrxzb.com/) | 免费                      | -                                       |
