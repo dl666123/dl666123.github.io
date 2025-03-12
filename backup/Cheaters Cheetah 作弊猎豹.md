@@ -26,10 +26,10 @@
         - 邀请好友并等待他们加入。
 
 ## 游戏视频预览
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114142916644892&bvid=BV1e5RnYxEBf&cid=28809626542&p=1" 
+`Gmeek-html<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114142916644892&bvid=BV1e5RnYxEBf&cid=28809626542&p=1" 
         width="640" height="480" 
         frameborder="0" allowfullscreen>
-</iframe>
+</iframe>`
 
 ## 下载地址
 [作弊猎豹 Cheaters Cheetah 下载链接](https://pan.baidu.com/s/1lcpdg5IvEtz46O3RfdSCvA)  
