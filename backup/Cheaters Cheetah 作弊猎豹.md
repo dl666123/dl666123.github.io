@@ -17,3 +17,4 @@ Steam 上的游戏页面： Cheaters Cheetah
 
 下载地址：作弊猎豹Cheaters Cheetah
 链接: https://pan.baidu.com/s/1lcpdg5IvEtz46O3RfdSCvA?pwd=y1pj 提取码: y1pj 
+### QQ游戏交流群894972694
