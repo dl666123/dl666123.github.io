@@ -1,6 +1,6 @@
 |网站名称|网站站点|简介|
 | ---           | ---                  |---|
-|3DM游戏网|https://www.3dmgame.com/|游戏门户网站，曾经是国内游戏资源最多的网站。|
+|3DM游戏网|https://bbs.3dmgame.com/|游戏门户网站，曾经是国内游戏资源最多的网站。|
 |游民星空|https://www.gamersky.com/|游戏门户网站，大型单机游戏门户网站，提供特色资讯和下载。|
 |游侠网|https://down.ali213.net|游戏门户网站，单机游戏下载基地。|
 |上游世界|https://www.vgter.com/|游戏门户网站，提供精品 PC、Switch、PS4 等游戏。|
