@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     name: Generate blog
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # 已更新为最新版
     if: ${{ github.event.repository.owner.id == github.event.sender.id || github.event_name == 'schedule' }}
     permissions: write-all
     steps:
@@ -26,7 +26,7 @@ jobs:
           echo "====== check config.josn file ======"
           cat config.json
           echo "====== check config.josn end  ======"
-          sudo apt-get install jq
+          sudo apt-get install jq -y  # 添加 -y 避免交互确认
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -39,7 +39,11 @@ jobs:
           git clone https://github.com/Meekdai/Gmeek.git /opt/Gmeek;
           cd /opt/Gmeek/
           lastTag=$(git describe --tags `git rev-list --tags --max-count=1`)
-          if [ $GMEEK_VERSION == 'last' ]; then git checkout $lastTag; else git checkout $GMEEK_VERSION; fi;
+          if [ "$GMEEK_VERSION" = 'last' ]; then 
+            git checkout $lastTag; 
+          else 
+            git checkout $GMEEK_VERSION; 
+          fi;
 
       - name: Install dependencies
         run: |
@@ -71,7 +75,7 @@ jobs:
           
   deploy:
     name: Deploy blog
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest  # 已更新为最新版
     needs: build
     permissions:
       contents: write
