@@ -50,3 +50,4 @@
 |DirectX Repair|https://blog.csdn.net/vbcom/article/details/7245186|检测并修复系统的 DirectX 状态，玩大型游戏必备。|
 |5217下载站|https://www.xxx5217.com/| 游戏下载，需要城通网盘下载|
 |swich520下载站|https://sway.cloud.microsoft/1ESaLEE3x47BTgZC|百度网盘下载推荐|
+|GDGame|https://gdgame.top/|百度网盘下载推荐|
