@@ -41,3 +41,5 @@ Bete 版本，能使用 1 和 2 版本，不能上传图片
 11 、flowith.io
 
 一款 AI 社交媒体内容助手，可自动生成、规划并优化品牌在社交平台上的内容。
+12.https://banana.listenhub.ai/zh/explore
+每天签到有积分
