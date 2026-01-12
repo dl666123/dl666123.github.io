@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>东半夏洛的小博客</title><link>https://dl666123.github.io</link><description>东半夏洛！挚爱网络的一颗小白</description><copyright>东半夏洛的小博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/dl666123/dl666123.github.io/refs/heads/main/headimg_dl.jpg</url><title>avatar</title><link>https://dl666123.github.io</link></image><lastBuildDate>Sat, 03 Jan 2026 17:10:44 +0000</lastBuildDate><managingEditor>东半夏洛的小博客</managingEditor><ttl>60</ttl><webMaster>东半夏洛的小博客</webMaster><item><title>清单仓库合集</title><link>https://dl666123.github.io/post/qing-dan-cang-ku-he-ji.html</link><description>假如你会玩看看这些:
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>东半夏洛的小博客</title><link>https://dl666123.github.io</link><description>东半夏洛！挚爱网络的一颗小白</description><copyright>东半夏洛的小博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/dl666123/dl666123.github.io/refs/heads/main/headimg_dl.jpg</url><title>avatar</title><link>https://dl666123.github.io</link></image><lastBuildDate>Mon, 12 Jan 2026 04:44:17 +0000</lastBuildDate><managingEditor>东半夏洛的小博客</managingEditor><ttl>60</ttl><webMaster>东半夏洛的小博客</webMaster><item><title>国外大佬搞的提示词库</title><link>https://dl666123.github.io/post/guo-wai-da-lao-gao-de-ti-shi-ci-ku.html</link><description>国外大佬搞的提示词库
+
+按营销、写作、研究、代码、效率、个人成长、AI艺术等分类整理，也可以帮你自动生成高质量提示词～
+
+https://promptstocheck.com/
+
+
+ 。</description><guid isPermaLink="true">https://dl666123.github.io/post/guo-wai-da-lao-gao-de-ti-shi-ci-ku.html</guid><pubDate>Mon, 12 Jan 2026 04:43:45 +0000</pubDate></item><item><title>清单仓库合集</title><link>https://dl666123.github.io/post/qing-dan-cang-ku-he-ji.html</link><description>假如你会玩看看这些:
 清单仓库
 https://manifest.steam.run/
 https://github.com/wxy1343/ManifestAutoUpdate/branches
