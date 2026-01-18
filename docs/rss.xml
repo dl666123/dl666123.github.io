@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>东半夏洛的小博客</title><link>https://dl666123.github.io</link><description>东半夏洛！挚爱网络的一颗小白</description><copyright>东半夏洛的小博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/dl666123/dl666123.github.io/refs/heads/main/headimg_dl.jpg</url><title>avatar</title><link>https://dl666123.github.io</link></image><lastBuildDate>Mon, 12 Jan 2026 04:44:17 +0000</lastBuildDate><managingEditor>东半夏洛的小博客</managingEditor><ttl>60</ttl><webMaster>东半夏洛的小博客</webMaster><item><title>国外大佬搞的提示词库</title><link>https://dl666123.github.io/post/guo-wai-da-lao-gao-de-ti-shi-ci-ku.html</link><description>国外大佬搞的提示词库
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>东半夏洛的小博客</title><link>https://dl666123.github.io</link><description>东半夏洛！挚爱网络的一颗小白</description><copyright>东半夏洛的小博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/dl666123/dl666123.github.io/refs/heads/main/headimg_dl.jpg</url><title>avatar</title><link>https://dl666123.github.io</link></image><lastBuildDate>Sun, 18 Jan 2026 09:26:18 +0000</lastBuildDate><managingEditor>东半夏洛的小博客</managingEditor><ttl>60</ttl><webMaster>东半夏洛的小博客</webMaster><item><title>蔚蓝档案-Alya多功能辅助0.1.3</title><link>https://dl666123.github.io/post/wei-lan-dang-an--Alya-duo-gong-neng-fu-zhu-0.1.3.html</link><description>steam非国区
+已亲测无毒
+文件夹解压到桌面
+1.以[管理](https://www.fuzhu86.net/tag/%E7%AE%A1%E7%90%86)员方式运行Launcher.exe
+2.手动运行游戏
+insert开关菜单
+
+更新日志
+0.1.1:
+绕过了一些检测
+
+功能翻译
+玩家(Player)
+上帝模式(God mode)
+一击必杀(Instant Kill)
+无技能消耗(No cost)
+伤害倍率(Damage Multiplier)
+治疗倍率(Heal Multiplier)
+无限召唤持续时间(Infinite Summon Duration)
+玩家属性编辑器(Play State)
+世界(World)
+立即获胜(Instant Win)
+跳过对话(Skip Dialogue)
+笨怪(Dump enemies)
+游戏速度(Global Speed)
+[战斗](https://www.fuzhu86.net/tag/%E6%88%98%E6%96%97)速度(Battle Speed)
+视觉(Visuals)
+视场修改(Camera FOV)
+杂项(Misc)
+显示帧率(Show FPS)
+加载配置(Load Config)
+保存配置(Save Config)
+重置配置(Reset)。</description><guid isPermaLink="true">https://dl666123.github.io/post/wei-lan-dang-an--Alya-duo-gong-neng-fu-zhu-0.1.3.html</guid><pubDate>Sun, 18 Jan 2026 09:19:40 +0000</pubDate></item><item><title>国外大佬搞的提示词库</title><link>https://dl666123.github.io/post/guo-wai-da-lao-gao-de-ti-shi-ci-ku.html</link><description>国外大佬搞的提示词库
 
 按营销、写作、研究、代码、效率、个人成长、AI艺术等分类整理，也可以帮你自动生成高质量提示词～
 
