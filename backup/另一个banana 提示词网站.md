@@ -1,1 +1,0 @@
-https://glidea.github.io/banana-prompt-quicker/#gallery
