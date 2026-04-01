@@ -932,5 +932,15 @@
     "postUrl": "post/yi-ting-wei-yi-dai-yun-yin-le-zhuo-mian-ke-hu-duan.html",
     "createdDate": "2026-04-01",
     "dateLabelColor": "#8250df"
+  },
+  "P131": {
+    "labels": [
+      "软件",
+      "网站"
+    ],
+    "postTitle": "易听 | 网易云音乐桌面客户端客户端",
+    "postUrl": "docs/post/yi-ting-wei-yi-dai-yun-yin-le-zhuo-mian-ke-hu-duan.html",
+    "createdDate": "2026-04-01",
+    "dateLabelColor": "#8250df"
   }
 }
