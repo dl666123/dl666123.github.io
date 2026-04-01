@@ -2,6 +2,11 @@ name: build Gmeek
 
 on:
   workflow_dispatch:
+    inputs:
+      issue_number:
+        description: "Issue number for Gmeek (0 for full rebuild)"
+        required: false
+        default: "999"
   issues:
     types: [opened]
   schedule:
@@ -54,7 +59,7 @@ jobs:
         run: |
           cp -r ./* /opt/Gmeek/
           cd /opt/Gmeek/
-          python Gmeek.py ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }} --issue_number "${{ github.event.issue.number || 0 }}" || { echo "=== Gmeek Error ==="; cat /opt/Gmeek/backup/Gmeek_log.txt 2>/dev/null || echo "no log"; exit 1; }
+          python Gmeek.py ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }} --issue_number "${{ github.event.inputs.issue_number.value || github.event.issue.number || 999 }}" || { echo "=== Gmeek Error ==="; cat /opt/Gmeek/backup/Gmeek_log.txt 2>/dev/null || echo "no log"; exit 1; }
           cp -a /opt/Gmeek/docs ${{ github.workspace }} 
           cp -a /opt/Gmeek/backup ${{ github.workspace }} 
           cp /opt/Gmeek/blogBase.json ${{ github.workspace }} 
