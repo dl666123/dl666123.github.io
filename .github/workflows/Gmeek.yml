@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   issues:
     types: [opened]
-    types: [opened, edited]
   schedule:
     - cron: "0 16 * * *"
     
@@ -55,7 +54,7 @@ jobs:
         run: |
           cp -r ./* /opt/Gmeek/
           cd /opt/Gmeek/
-          python Gmeek.py ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }} --issue_number '${{ github.event.issue.number || 0 }}'
+          python Gmeek.py ${{ secrets.GITHUB_TOKEN }} ${{ github.repository }} --issue_number "${{ github.event.issue.number || 0 }}"
           cp -a /opt/Gmeek/docs ${{ github.workspace }} 
           cp -a /opt/Gmeek/backup ${{ github.workspace }} 
           cp /opt/Gmeek/blogBase.json ${{ github.workspace }} 
