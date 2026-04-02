@@ -1,0 +1,59 @@
+
+This file lists modules PyInstaller was not able to find. This does not
+necessarily mean these modules are required for running your program. Both
+Python's standard library and 3rd-party Python packages often conditionally
+import optional modules, some of which may be available only on certain
+platforms.
+
+Types of import:
+* top-level: imported at the top-level - look at these first
+* conditional: imported within an if-statement
+* delayed: imported within a function
+* optional: imported within a try-except-statement
+
+IMPORTANT: Do NOT post this list to the issue-tracker. Use it as a basis for
+            tracking down the missing module yourself. Thanks!
+
+missing module named 'collections.abc' - imported by tracemalloc (top-level), typing (top-level), traceback (top-level), _colorize (top-level), logging (top-level), selectors (top-level), http.client (top-level), importlib.resources.readers (top-level), inspect (top-level), setuptools (top-level), setuptools._distutils.filelist (top-level), setuptools._distutils.util (top-level), setuptools._vendor.jaraco.functools (top-level), setuptools._vendor.more_itertools.more (top-level), setuptools._distutils._modified (top-level), setuptools._distutils.compat (top-level), setuptools._distutils.spawn (top-level), typing_extensions (top-level), asyncio.base_events (top-level), multiprocessing.managers (top-level), asyncio.coroutines (top-level), setuptools._distutils.compilers.C.base (top-level), setuptools._distutils.fancy_getopt (top-level), setuptools._reqs (top-level), setuptools._vendor.jaraco.context (top-level), setuptools.discovery (top-level), setuptools.dist (top-level), setuptools._vendor.importlib_metadata (top-level), setuptools._vendor.importlib_metadata._meta (top-level), setuptools._distutils.command.bdist (top-level), setuptools._distutils.core (top-level), setuptools._distutils.cmd (top-level), setuptools._distutils.dist (top-level), configparser (top-level), setuptools._distutils.extension (top-level), setuptools.config.setupcfg (top-level), setuptools.config.expand (top-level), setuptools.config.pyprojecttoml (top-level), setuptools.config._apply_pyprojecttoml (top-level), setuptools.extension (top-level), tomllib._parser (conditional), setuptools._vendor.tomli._parser (conditional), setuptools.wheel (top-level), setuptools.command.egg_info (top-level), setuptools.command.bdist_egg (top-level), setuptools.command.sdist (top-level), setuptools._distutils.command.build (top-level), setuptools._distutils.command.sdist (top-level), setuptools.glob (top-level), setuptools.command._requirestxt (top-level), setuptools.command.bdist_wheel (top-level), requests.compat (top-level), setuptools._distutils.command.build_ext (top-level), _pyrepl.types (top-level), _pyrepl.readline (top-level), setuptools._distutils.compilers.C.msvc (top-level)
+missing module named winreg - imported by importlib._bootstrap_external (conditional), mimetypes (optional), urllib.request (delayed, conditional, optional), platform (delayed, optional), requests.utils (delayed, conditional, optional), setuptools._distutils.compilers.C.msvc (top-level), setuptools.msvc (conditional)
+missing module named _scproxy - imported by urllib.request (conditional)
+missing module named _winapi - imported by shutil (conditional), ntpath (optional), pathlib._os (optional), mimetypes (optional), subprocess (conditional), sysconfig (delayed), multiprocessing.connection (optional), multiprocessing.spawn (delayed, conditional), multiprocessing.reduction (conditional), multiprocessing.shared_memory (conditional), multiprocessing.heap (conditional), multiprocessing.popen_spawn_win32 (top-level), asyncio.windows_events (top-level), asyncio.windows_utils (top-level)
+missing module named nt - imported by _colorize (delayed, conditional, optional), shutil (conditional), importlib._bootstrap_external (conditional), ntpath (optional), os (delayed, conditional, optional), ctypes (delayed, conditional), _pyrepl.windows_console (optional)
+missing module named _frozen_importlib_external - imported by importlib._bootstrap (delayed), importlib (optional), importlib.abc (optional), zipimport (top-level)
+excluded module named _frozen_importlib - imported by importlib (optional), importlib.abc (optional), zipimport (top-level)
+missing module named msvcrt - imported by subprocess (optional), multiprocessing.spawn (delayed, conditional), multiprocessing.popen_spawn_win32 (top-level), asyncio.windows_events (top-level), asyncio.windows_utils (top-level)
+missing module named _overlapped - imported by asyncio.windows_events (top-level)
+missing module named multiprocessing.set_start_method - imported by multiprocessing (top-level), multiprocessing.spawn (top-level)
+missing module named multiprocessing.get_start_method - imported by multiprocessing (top-level), multiprocessing.spawn (top-level)
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing (top-level), multiprocessing.forkserver (top-level), multiprocessing.connection (top-level)
+missing module named multiprocessing.get_context - imported by multiprocessing (top-level), multiprocessing.pool (top-level), multiprocessing.managers (top-level), multiprocessing.sharedctypes (top-level)
+missing module named multiprocessing.TimeoutError - imported by multiprocessing (top-level), multiprocessing.pool (top-level)
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing (top-level), multiprocessing.connection (top-level)
+missing module named _typeshed - imported by setuptools._distutils.dist (conditional), setuptools.command.bdist_egg (conditional), setuptools.glob (conditional), setuptools._vendor.wheel.wheelfile (conditional), setuptools.compat.py311 (conditional)
+missing module named vms_lib - imported by platform (delayed, optional)
+missing module named 'java.lang' - imported by platform (delayed, optional)
+missing module named java - imported by platform (delayed)
+missing module named _wmi - imported by platform (optional)
+missing module named usercustomize - imported by site (delayed, optional)
+missing module named sitecustomize - imported by site (delayed, optional)
+missing module named _manylinux - imported by packaging._manylinux (delayed, optional), setuptools._vendor.packaging._manylinux (delayed, optional)
+missing module named setuptools._vendor.backports.zstd - imported by setuptools._vendor.backports (top-level), urllib3.util.request (conditional, optional), urllib3.response (conditional, optional)
+missing module named importlib_resources - imported by setuptools._vendor.jaraco.text (optional)
+missing module named trove_classifiers - imported by setuptools.config._validate_pyproject.formats (optional)
+missing module named pyimod02_importers - imported by /root/.pyenv/versions/3.14.3/lib/python3.14/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgutil.py (delayed)
+missing module named simplejson - imported by requests.compat (conditional, optional)
+missing module named dummy_threading - imported by requests.cookies (optional)
+missing module named 'h2.events' - imported by urllib3.http2.connection (top-level)
+missing module named 'h2.connection' - imported by urllib3.http2.connection (top-level)
+missing module named h2 - imported by urllib3.http2.connection (top-level)
+missing module named brotli - imported by urllib3.util.request (optional), urllib3.response (optional)
+missing module named brotlicffi - imported by urllib3.util.request (optional), urllib3.response (optional)
+missing module named socks - imported by urllib3.contrib.socks (optional)
+missing module named cryptography - imported by urllib3.contrib.pyopenssl (top-level), requests (conditional, optional)
+missing module named 'OpenSSL.crypto' - imported by urllib3.contrib.pyopenssl (delayed, conditional)
+missing module named 'cryptography.x509' - imported by urllib3.contrib.pyopenssl (delayed, optional)
+missing module named OpenSSL - imported by urllib3.contrib.pyopenssl (top-level)
+missing module named chardet - imported by requests (optional)
+missing module named 'pyodide.ffi' - imported by urllib3.contrib.emscripten.fetch (delayed, optional)
+missing module named pyodide - imported by urllib3.contrib.emscripten.fetch (top-level)
+missing module named js - imported by urllib3.contrib.emscripten.fetch (top-level)
