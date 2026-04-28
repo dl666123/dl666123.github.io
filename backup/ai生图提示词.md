@@ -1,0 +1,1 @@
+https://github.com/Jimmylv/awesome-nano-banana/blob/main/README.md#cases-78
