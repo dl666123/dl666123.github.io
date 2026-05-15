@@ -1,15 +1,4 @@
 {
-    "P152": {
-        "labels": [
-            "电子书",
-            "资源",
-            "GitHub"
-        ],
-        "postTitle": "📚 这个 GitHub 项目，9000+ Star，收录 24000+ 电子书",
-        "postUrl": "post/ebook-treasure-chest-9000-star-24000ebooks.html",
-        "createdDate": "2026-05-15",
-        "dateLabelColor": "#1f883d"
-    },
     "P151": {
         "labels": [
             "扣子助理"
@@ -206,7 +195,7 @@
         "createdDate": "2026-04-02",
         "dateLabelColor": "#1f883d"
     },
-    "P132": {
+    "P122": {
         "labels": [
             "游戏"
         ],
@@ -215,7 +204,7 @@
         "createdDate": "2026-02-28",
         "dateLabelColor": "#1f883d"
     },
-    "P131": {
+    "P121": {
         "labels": [
             "游戏"
         ],
@@ -224,7 +213,7 @@
         "createdDate": "2026-01-18",
         "dateLabelColor": "#1f883d"
     },
-    "P130": {
+    "P120": {
         "labels": [
             "ai提示词"
         ],
@@ -233,7 +222,7 @@
         "createdDate": "2026-01-12",
         "dateLabelColor": "#1f883d"
     },
-    "P129": {
+    "P119": {
         "labels": [
             "游戏"
         ],
@@ -242,7 +231,7 @@
         "createdDate": "2025-12-22",
         "dateLabelColor": "#0969da"
     },
-    "P128": {
+    "P118": {
         "labels": [
             "ai提示词"
         ],
@@ -251,7 +240,7 @@
         "createdDate": "2025-12-13",
         "dateLabelColor": "#0969da"
     },
-    "P127": {
+    "P117": {
         "labels": [
             "ai提示词"
         ],
@@ -260,7 +249,7 @@
         "createdDate": "2025-12-13",
         "dateLabelColor": "#0969da"
     },
-    "P126": {
+    "P116": {
         "labels": [
             "AI工具",
             "ai提示词"
@@ -270,7 +259,7 @@
         "createdDate": "2025-12-13",
         "dateLabelColor": "#0969da"
     },
-    "P125": {
+    "P115": {
         "labels": [
             "AI工具"
         ],
@@ -279,7 +268,7 @@
         "createdDate": "2025-12-03",
         "dateLabelColor": "#0969da"
     },
-    "P124": {
+    "P114": {
         "labels": [
             "AI工具"
         ],
@@ -288,7 +277,7 @@
         "createdDate": "2025-11-29",
         "dateLabelColor": "#0969da"
     },
-    "P123": {
+    "P113": {
         "labels": [
             "AI工具"
         ],
@@ -297,7 +286,7 @@
         "createdDate": "2025-11-24",
         "dateLabelColor": "#0969da"
     },
-    "P122": {
+    "P112": {
         "labels": [
             "AI工具"
         ],
@@ -306,7 +295,7 @@
         "createdDate": "2025-11-24",
         "dateLabelColor": "#0969da"
     },
-    "P121": {
+    "P109": {
         "labels": [
             "AI工具"
         ],
@@ -315,7 +304,7 @@
         "createdDate": "2025-09-29",
         "dateLabelColor": "#0969da"
     },
-    "P120": {
+    "P107": {
         "labels": [
             "游戏"
         ],
@@ -324,7 +313,7 @@
         "createdDate": "2025-09-20",
         "dateLabelColor": "#0969da"
     },
-    "P119": {
+    "P106": {
         "labels": [
             "AI工具"
         ],
@@ -333,7 +322,7 @@
         "createdDate": "2025-09-15",
         "dateLabelColor": "#0969da"
     },
-    "P118": {
+    "P105": {
         "labels": [
             "question"
         ],
@@ -342,7 +331,7 @@
         "createdDate": "2025-09-11",
         "dateLabelColor": "#0969da"
     },
-    "P117": {
+    "P104": {
         "labels": [
             "软件"
         ],
@@ -351,7 +340,7 @@
         "createdDate": "2025-09-06",
         "dateLabelColor": "#0969da"
     },
-    "P116": {
+    "P103": {
         "labels": [
             "软件"
         ],
@@ -360,7 +349,7 @@
         "createdDate": "2025-09-06",
         "dateLabelColor": "#0969da"
     },
-    "P115": {
+    "P100": {
         "labels": [
             "小说"
         ],
@@ -369,7 +358,7 @@
         "createdDate": "2025-08-07",
         "dateLabelColor": "#0969da"
     },
-    "P114": {
+    "P99": {
         "labels": [
             "网站"
         ],
@@ -378,7 +367,7 @@
         "createdDate": "2025-08-07",
         "dateLabelColor": "#0969da"
     },
-    "P113": {
+    "P98": {
         "labels": [
             "影视"
         ],
@@ -387,7 +376,7 @@
         "createdDate": "2025-07-20",
         "dateLabelColor": "#0969da"
     },
-    "P112": {
+    "P97": {
         "labels": [
             "软件"
         ],
@@ -396,7 +385,7 @@
         "createdDate": "2025-07-19",
         "dateLabelColor": "#0969da"
     },
-    "P111": {
+    "P96": {
         "labels": [
             "软件"
         ],
@@ -405,7 +394,7 @@
         "createdDate": "2025-07-19",
         "dateLabelColor": "#0969da"
     },
-    "P110": {
+    "P95": {
         "labels": [
             "软件"
         ],
@@ -414,7 +403,7 @@
         "createdDate": "2025-07-19",
         "dateLabelColor": "#0969da"
     },
-    "P109": {
+    "P93": {
         "labels": [
             "网站"
         ],
@@ -423,7 +412,7 @@
         "createdDate": "2025-06-14",
         "dateLabelColor": "#0969da"
     },
-    "P108": {
+    "P92": {
         "labels": [
             "网站"
         ],
@@ -432,7 +421,7 @@
         "createdDate": "2025-06-13",
         "dateLabelColor": "#0969da"
     },
-    "P107": {
+    "P91": {
         "labels": [
             "游戏"
         ],
@@ -441,7 +430,7 @@
         "createdDate": "2025-06-13",
         "dateLabelColor": "#0969da"
     },
-    "P106": {
+    "P90": {
         "labels": [
             "破解",
             "游戏"
@@ -451,7 +440,7 @@
         "createdDate": "2025-06-13",
         "dateLabelColor": "#0969da"
     },
-    "P105": {
+    "P89": {
         "labels": [
             "影视",
             "源码"
@@ -461,7 +450,7 @@
         "createdDate": "2025-06-13",
         "dateLabelColor": "#0969da"
     },
-    "P104": {
+    "P88": {
         "labels": [
             "源码"
         ],
@@ -470,7 +459,7 @@
         "createdDate": "2025-06-12",
         "dateLabelColor": "#0969da"
     },
-    "P103": {
+    "P87": {
         "labels": [
             "网站"
         ],
@@ -479,7 +468,7 @@
         "createdDate": "2025-06-12",
         "dateLabelColor": "#0969da"
     },
-    "P102": {
+    "P86": {
         "labels": [
             "AI工具"
         ],
@@ -488,7 +477,7 @@
         "createdDate": "2025-06-12",
         "dateLabelColor": "#0969da"
     },
-    "P101": {
+    "P85": {
         "labels": [
             "网站"
         ],
@@ -497,7 +486,7 @@
         "createdDate": "2025-06-12",
         "dateLabelColor": "#0969da"
     },
-    "P100": {
+    "P82": {
         "labels": [
             "联机游戏分享"
         ],
@@ -506,7 +495,7 @@
         "createdDate": "2025-03-14",
         "dateLabelColor": "#0969da"
     },
-    "P99": {
+    "P81": {
         "labels": [
             "联机游戏分享"
         ],
@@ -515,7 +504,7 @@
         "createdDate": "2025-03-13",
         "dateLabelColor": "#0969da"
     },
-    "P98": {
+    "P80": {
         "labels": [
             "联机游戏分享"
         ],
@@ -524,7 +513,7 @@
         "createdDate": "2025-03-12",
         "dateLabelColor": "#0969da"
     },
-    "P97": {
+    "P78": {
         "labels": [
             "教学"
         ],
@@ -533,7 +522,7 @@
         "createdDate": "2025-02-18",
         "dateLabelColor": "#0969da"
     },
-    "P96": {
+    "P77": {
         "labels": [
             "办公资源",
             "网站"
@@ -543,7 +532,7 @@
         "createdDate": "2025-02-14",
         "dateLabelColor": "#0969da"
     },
-    "P95": {
+    "P76": {
         "labels": [
             "教学"
         ],
@@ -552,7 +541,7 @@
         "createdDate": "2025-02-10",
         "dateLabelColor": "#0969da"
     },
-    "P94": {
+    "P75": {
         "labels": [
             "网站"
         ],
@@ -561,7 +550,7 @@
         "createdDate": "2025-01-31",
         "dateLabelColor": "#0969da"
     },
-    "P93": {
+    "P74": {
         "labels": [
             "网站"
         ],
@@ -570,7 +559,7 @@
         "createdDate": "2025-01-12",
         "dateLabelColor": "#0969da"
     },
-    "P92": {
+    "P73": {
         "labels": [
             "网站"
         ],
@@ -579,7 +568,7 @@
         "createdDate": "2025-01-09",
         "dateLabelColor": "#0969da"
     },
-    "P91": {
+    "P72": {
         "labels": [
             "网站"
         ],
@@ -588,7 +577,7 @@
         "createdDate": "2025-01-07",
         "dateLabelColor": "#0969da"
     },
-    "P90": {
+    "P71": {
         "labels": [
             "网站",
             "影视",
@@ -599,7 +588,7 @@
         "createdDate": "2025-01-07",
         "dateLabelColor": "#0969da"
     },
-    "P89": {
+    "P70": {
         "labels": [
             "网站",
             "摸鱼必备"
@@ -609,7 +598,7 @@
         "createdDate": "2025-01-07",
         "dateLabelColor": "#0969da"
     },
-    "P88": {
+    "P69": {
         "labels": [
             "网站",
             "影视"
@@ -619,7 +608,7 @@
         "createdDate": "2025-01-07",
         "dateLabelColor": "#0969da"
     },
-    "P87": {
+    "P68": {
         "labels": [
             "网站",
             "影视"
@@ -629,7 +618,7 @@
         "createdDate": "2025-01-07",
         "dateLabelColor": "#0969da"
     },
-    "P86": {
+    "P67": {
         "labels": [
             "办公资源",
             "网站"
@@ -639,7 +628,7 @@
         "createdDate": "2025-01-05",
         "dateLabelColor": "#0969da"
     },
-    "P85": {
+    "P66": {
         "labels": [
             "游戏"
         ],
@@ -648,7 +637,7 @@
         "createdDate": "2024-12-25",
         "dateLabelColor": "#bc4c00"
     },
-    "P84": {
+    "P65": {
         "labels": [
             "网站"
         ],
@@ -657,7 +646,7 @@
         "createdDate": "2024-12-17",
         "dateLabelColor": "#bc4c00"
     },
-    "P83": {
+    "P64": {
         "labels": [
             "办公资源"
         ],
@@ -666,7 +655,7 @@
         "createdDate": "2024-12-15",
         "dateLabelColor": "#bc4c00"
     },
-    "P82": {
+    "P63": {
         "labels": [
             "网站",
             "摸鱼必备"
@@ -676,7 +665,7 @@
         "createdDate": "2024-12-12",
         "dateLabelColor": "#bc4c00"
     },
-    "P81": {
+    "P62": {
         "labels": [
             "网站",
             "AI工具"
@@ -686,7 +675,7 @@
         "createdDate": "2024-12-09",
         "dateLabelColor": "#bc4c00"
     },
-    "P80": {
+    "P61": {
         "labels": [
             "网站",
             "摸鱼必备"
@@ -696,7 +685,7 @@
         "createdDate": "2024-12-03",
         "dateLabelColor": "#bc4c00"
     },
-    "P79": {
+    "P60": {
         "labels": [
             "办公资源",
             "网站",
@@ -707,7 +696,7 @@
         "createdDate": "2024-12-03",
         "dateLabelColor": "#bc4c00"
     },
-    "P78": {
+    "P59": {
         "labels": [
             "网站",
             "摸鱼必备"
@@ -717,7 +706,7 @@
         "createdDate": "2024-11-17",
         "dateLabelColor": "#bc4c00"
     },
-    "P77": {
+    "P58": {
         "labels": [
             "网站"
         ],
@@ -726,7 +715,7 @@
         "createdDate": "2024-11-17",
         "dateLabelColor": "#bc4c00"
     },
-    "P76": {
+    "P57": {
         "labels": [
             "网站",
             "AI工具"
@@ -736,7 +725,7 @@
         "createdDate": "2024-11-11",
         "dateLabelColor": "#bc4c00"
     },
-    "P75": {
+    "P56": {
         "labels": [
             "游戏"
         ],
@@ -745,7 +734,7 @@
         "createdDate": "2024-11-10",
         "dateLabelColor": "#bc4c00"
     },
-    "P74": {
+    "P55": {
         "labels": [
             "破解PC",
             "question",
@@ -757,7 +746,7 @@
         "createdDate": "2024-11-01",
         "dateLabelColor": "#bc4c00"
     },
-    "P73": {
+    "P53": {
         "labels": [
             "办公资源",
             "网站"
@@ -767,7 +756,7 @@
         "createdDate": "2024-10-24",
         "dateLabelColor": "#bc4c00"
     },
-    "P72": {
+    "P52": {
         "labels": [
             "办公资源",
             "网站",
@@ -778,7 +767,7 @@
         "createdDate": "2024-10-15",
         "dateLabelColor": "#bc4c00"
     },
-    "P71": {
+    "P51": {
         "labels": [
             "question",
             "网站"
@@ -788,7 +777,7 @@
         "createdDate": "2024-10-11",
         "dateLabelColor": "#bc4c00"
     },
-    "P70": {
+    "P50": {
         "labels": [
             "办公资源",
             "摸鱼必备"
@@ -798,7 +787,7 @@
         "createdDate": "2024-10-02",
         "dateLabelColor": "#bc4c00"
     },
-    "P69": {
+    "P49": {
         "labels": [
             "网站",
             "影视"
@@ -808,7 +797,7 @@
         "createdDate": "2024-10-02",
         "dateLabelColor": "#bc4c00"
     },
-    "P68": {
+    "P48": {
         "labels": [
             "网站"
         ],
@@ -817,7 +806,7 @@
         "createdDate": "2024-10-02",
         "dateLabelColor": "#bc4c00"
     },
-    "P67": {
+    "P47": {
         "labels": [
             "网站"
         ],
@@ -826,7 +815,7 @@
         "createdDate": "2024-09-26",
         "dateLabelColor": "#bc4c00"
     },
-    "P66": {
+    "P46": {
         "labels": [
             "教学",
             "网站"
@@ -836,7 +825,7 @@
         "createdDate": "2024-09-26",
         "dateLabelColor": "#bc4c00"
     },
-    "P65": {
+    "P45": {
         "labels": [
             "网站",
             "影视"
@@ -846,7 +835,7 @@
         "createdDate": "2024-09-25",
         "dateLabelColor": "#bc4c00"
     },
-    "P64": {
+    "P44": {
         "labels": [
             "网站",
             "影视"
@@ -856,7 +845,7 @@
         "createdDate": "2024-09-25",
         "dateLabelColor": "#bc4c00"
     },
-    "P63": {
+    "P43": {
         "labels": [
             "网站"
         ],
@@ -865,7 +854,7 @@
         "createdDate": "2024-09-25",
         "dateLabelColor": "#bc4c00"
     },
-    "P62": {
+    "P42": {
         "labels": [
             "破解PC",
             "网站"
@@ -875,7 +864,7 @@
         "createdDate": "2024-09-07",
         "dateLabelColor": "#bc4c00"
     },
-    "P61": {
+    "P41": {
         "labels": [
             "网站",
             "AI工具"
@@ -885,7 +874,7 @@
         "createdDate": "2024-09-06",
         "dateLabelColor": "#bc4c00"
     },
-    "P60": {
+    "P40": {
         "labels": [
             "网站"
         ],
@@ -894,7 +883,7 @@
         "createdDate": "2024-09-06",
         "dateLabelColor": "#bc4c00"
     },
-    "P59": {
+    "P39": {
         "labels": [
             "网站"
         ],
@@ -903,7 +892,7 @@
         "createdDate": "2024-08-29",
         "dateLabelColor": "#bc4c00"
     },
-    "P58": {
+    "P38": {
         "labels": [
             "网站"
         ],
@@ -912,7 +901,7 @@
         "createdDate": "2024-08-29",
         "dateLabelColor": "#bc4c00"
     },
-    "P57": {
+    "P37": {
         "labels": [
             "网站"
         ],
@@ -921,7 +910,7 @@
         "createdDate": "2024-08-26",
         "dateLabelColor": "#bc4c00"
     },
-    "P56": {
+    "P36": {
         "labels": [
             "办公资源",
             "AI工具"
@@ -931,7 +920,7 @@
         "createdDate": "2024-08-19",
         "dateLabelColor": "#bc4c00"
     },
-    "P55": {
+    "P35": {
         "labels": [
             "网站"
         ],
@@ -940,7 +929,7 @@
         "createdDate": "2024-08-18",
         "dateLabelColor": "#bc4c00"
     },
-    "P54": {
+    "P34": {
         "labels": [
             "网站",
             "AI工具"
@@ -950,7 +939,7 @@
         "createdDate": "2024-08-15",
         "dateLabelColor": "#bc4c00"
     },
-    "P53": {
+    "P33": {
         "labels": [
             "网站",
             "AI工具"
@@ -960,7 +949,7 @@
         "createdDate": "2024-08-15",
         "dateLabelColor": "#bc4c00"
     },
-    "P52": {
+    "P30": {
         "labels": [
             "网站",
             "AI工具"
@@ -970,7 +959,7 @@
         "createdDate": "2024-08-13",
         "dateLabelColor": "#bc4c00"
     },
-    "P51": {
+    "P29": {
         "labels": [
             "wontfix"
         ],
@@ -979,7 +968,7 @@
         "createdDate": "2024-08-06",
         "dateLabelColor": "#bc4c00"
     },
-    "P50": {
+    "P28": {
         "labels": [
             "网站"
         ],
@@ -988,7 +977,7 @@
         "createdDate": "2024-08-05",
         "dateLabelColor": "#bc4c00"
     },
-    "P49": {
+    "P26": {
         "labels": [
             "办公资源",
             "网站"
@@ -998,7 +987,7 @@
         "createdDate": "2024-07-28",
         "dateLabelColor": "#bc4c00"
     },
-    "P48": {
+    "P25": {
         "labels": [
             "教学",
             "网站"
@@ -1008,7 +997,7 @@
         "createdDate": "2024-07-20",
         "dateLabelColor": "#bc4c00"
     },
-    "P47": {
+    "P24": {
         "labels": [
             "小吃",
             "教学"
@@ -1018,7 +1007,7 @@
         "createdDate": "2024-07-20",
         "dateLabelColor": "#bc4c00"
     },
-    "P46": {
+    "P23": {
         "labels": [
             "办公资源"
         ],
@@ -1027,7 +1016,7 @@
         "createdDate": "2024-07-16",
         "dateLabelColor": "#bc4c00"
     },
-    "P45": {
+    "P22": {
         "labels": [
             "办公资源",
             "网站"
@@ -1037,7 +1026,7 @@
         "createdDate": "2024-07-14",
         "dateLabelColor": "#bc4c00"
     },
-    "P44": {
+    "P21": {
         "labels": [
             "小吃"
         ],
@@ -1046,7 +1035,7 @@
         "createdDate": "2024-07-09",
         "dateLabelColor": "#bc4c00"
     },
-    "P43": {
+    "P20": {
         "labels": [
             "破解PC",
             "网站",
@@ -1057,7 +1046,7 @@
         "createdDate": "2024-07-09",
         "dateLabelColor": "#bc4c00"
     },
-    "P42": {
+    "P19": {
         "labels": [
             "网站",
             "AI工具"
@@ -1067,7 +1056,7 @@
         "createdDate": "2024-07-09",
         "dateLabelColor": "#bc4c00"
     },
-    "P41": {
+    "P18": {
         "labels": [
             "网站"
         ],
@@ -1076,7 +1065,7 @@
         "createdDate": "2024-07-08",
         "dateLabelColor": "#bc4c00"
     },
-    "P40": {
+    "P17": {
         "labels": [
             "网站"
         ],
@@ -1085,7 +1074,7 @@
         "createdDate": "2024-07-08",
         "dateLabelColor": "#bc4c00"
     },
-    "P39": {
+    "P16": {
         "labels": [
             "办公资源",
             "网站"
@@ -1095,7 +1084,7 @@
         "createdDate": "2024-07-08",
         "dateLabelColor": "#bc4c00"
     },
-    "P38": {
+    "P15": {
         "labels": [
             "办公资源",
             "网站",
@@ -1106,7 +1095,7 @@
         "createdDate": "2024-07-08",
         "dateLabelColor": "#bc4c00"
     },
-    "P37": {
+    "P14": {
         "labels": [
             "破解PC",
             "办公资源"
@@ -1116,7 +1105,7 @@
         "createdDate": "2024-07-08",
         "dateLabelColor": "#bc4c00"
     },
-    "P36": {
+    "P13": {
         "labels": [
             "网站"
         ],
@@ -1125,7 +1114,7 @@
         "createdDate": "2024-07-07",
         "dateLabelColor": "#bc4c00"
     },
-    "P35": {
+    "P12": {
         "labels": [
             "网站",
             "AI工具"
@@ -1135,7 +1124,7 @@
         "createdDate": "2024-07-06",
         "dateLabelColor": "#bc4c00"
     },
-    "P34": {
+    "P11": {
         "labels": [
             "网站"
         ],
@@ -1144,7 +1133,7 @@
         "createdDate": "2024-07-06",
         "dateLabelColor": "#bc4c00"
     },
-    "P33": {
+    "P10": {
         "labels": [
             "网站"
         ],
@@ -1153,7 +1142,7 @@
         "createdDate": "2024-07-06",
         "dateLabelColor": "#bc4c00"
     },
-    "P32": {
+    "P9": {
         "labels": [
             "办公资源",
             "网站"
@@ -1163,7 +1152,7 @@
         "createdDate": "2024-07-06",
         "dateLabelColor": "#bc4c00"
     },
-    "P31": {
+    "P8": {
         "labels": [
             "网站"
         ],
@@ -1172,7 +1161,7 @@
         "createdDate": "2024-07-06",
         "dateLabelColor": "#bc4c00"
     },
-    "P30": {
+    "P7": {
         "labels": [
             "网站"
         ],
@@ -1181,7 +1170,7 @@
         "createdDate": "2024-07-06",
         "dateLabelColor": "#bc4c00"
     },
-    "P29": {
+    "P6": {
         "labels": [
             "办公资源",
             "网站"
@@ -1191,7 +1180,7 @@
         "createdDate": "2024-06-29",
         "dateLabelColor": "#bc4c00"
     },
-    "P28": {
+    "P5": {
         "labels": [
             "办公资源"
         ],
@@ -1200,7 +1189,7 @@
         "createdDate": "2024-06-25",
         "dateLabelColor": "#bc4c00"
     },
-    "P27": {
+    "P4": {
         "labels": [
             "办公资源",
             "网站"
@@ -1210,7 +1199,7 @@
         "createdDate": "2024-06-21",
         "dateLabelColor": "#bc4c00"
     },
-    "P26": {
+    "P3": {
         "labels": [
             "办公资源",
             "网站"
@@ -1220,7 +1209,7 @@
         "createdDate": "2024-06-21",
         "dateLabelColor": "#bc4c00"
     },
-    "P25": {
+    "P2": {
         "labels": [
             "办公资源"
         ],
@@ -1229,7 +1218,7 @@
         "createdDate": "2024-06-21",
         "dateLabelColor": "#bc4c00"
     },
-    "P24": {
+    "labelColorDict": {
         "ai": "#ededed",
         "AI工具": "#0052cc",
         "ai提示词": "#cde0e3",
@@ -1292,5 +1281,16 @@
         "闲鱼": "#ededed",
         "高速下载": "#ededed",
         "魔改版": "#ededed"
+    },
+    "P152": {
+        "labels": [
+            "电子书",
+            "资源",
+            "GitHub"
+        ],
+        "postTitle": "📚 这个 GitHub 项目，9000+ Star，收录 24000+ 电子书",
+        "postUrl": "post/ebook-treasure-chest-9000-star-24000ebooks.html",
+        "createdDate": "2026-05-15",
+        "dateLabelColor": "#1f883d"
     }
 }
